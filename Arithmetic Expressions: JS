@@ -1,0 +1,22 @@
+let students = 22;
+
+//students = students + 1;
+//students = students - 1;
+//students = students * 2; mult
+//students = students / 2; div
+//let extraStudents = students % 3 //modulus
+
+
+//students += 1; //add 1
+//students -= 1; //subtract 1
+//students *= 2; //multiply by 2
+//students /= 2; //divide by 2
+//students %= 3; //modulus
+ 
+
+let result = 1 + 2 *(3+4);
+
+
+console.log(result);
+
+ 
